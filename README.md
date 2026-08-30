@@ -3,11 +3,10 @@
 
  **Note:** This repository currently contains only a partial release of the project. The complete source code, configuration files, and related resources will be made publicly available after the associated paper is accepted for publication.
 
- **Graph-Spectral Collaborative Reliable Domain
-Adaptation (SEFFG-RCKA)** for unsupervised cross-condition bearing fault
+ **Soft event fission-fusion graph network with reinforcement-calibrated knowledge anchoring (SEFFG-RCKA)** for cross-condition fault diagnosis 
 diagnosis.
 
-![GSCRDA Framework](GSCRDA/Fig/GSCRDA%20Framework.png)
+![GSCRDA Framework](SEFFG-RCKA/Fig/GSCRDA%20Framework.png)
 
 ## Environment
 
