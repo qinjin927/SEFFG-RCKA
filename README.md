@@ -6,7 +6,7 @@
  **Soft event fission-fusion graph network with reinforcement-calibrated knowledge anchoring (SEFFG-RCKA)** for cross-condition fault diagnosis 
 diagnosis.
 
-![GSCRDA Framework](SEFFG-RCKA/Fig/GSCRDA%20Framework.png)
+![SEFFG-RCKA](Fig/SEFFG-RCKA.png)
 
 ## Environment
 
