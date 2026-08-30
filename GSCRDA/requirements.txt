@@ -4,7 +4,7 @@ scipy==1.15.3
 scikit-learn==1.6.1
 matplotlib==3.10.3
 seaborn==0.13.2
-Pillow==11.2.1
+Pillow==12.3.0
 tqdm==4.67.1
 torch==2.8.0
 torchvision==0.23.0
