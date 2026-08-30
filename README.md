@@ -1,10 +1,10 @@
-# GSCRDA
+# SEFFG-RCKA
 # Availability Notice
 
  **Note:** This repository currently contains only a partial release of the project. The complete source code, configuration files, and related resources will be made publicly available after the associated paper is accepted for publication.
 
  **Graph-Spectral Collaborative Reliable Domain
-Adaptation (GSCRDA)** for unsupervised cross-condition bearing fault
+Adaptation (SEFFG-RCKA)** for unsupervised cross-condition bearing fault
 diagnosis.
 
 ![GSCRDA Framework](GSCRDA/Fig/GSCRDA%20Framework.png)
