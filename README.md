@@ -20,8 +20,8 @@ The recommended environment is:
 Create and activate a Conda environment:
 
 ```bash
-conda create -n GSCRDA python=3.10 -y
-conda activate GSCRDA
+conda create -n SEFFG-RCKA python=3.10 -y
+conda activate SEFFG-RCKA
 ```
 
 Install the required packages:
@@ -56,7 +56,7 @@ training. They are retained only by the experimental evaluation protocol.
 
 ## Training
 
-`train_advanced.py` is the public entry point for training the complete GSCRDA
+`train_advanced.py` is the public entry point for training the complete SEFFG-RCKA
 model. It calls `utils/train_utils_combines.py`, which contains the complete
 training path without dedicated ablation interfaces.
 
@@ -87,7 +87,7 @@ directory contains:
 ## Main Files
 
 ```text
-train_advanced.py                  Complete GSCRDA training entry
+train_advanced.py                  Complete SEFFG-RCKA training entry
 requirements.txt                Python dependencies
 datasets/                       Dataset loading and preprocessing
 models/                         CCSEFFG and domain-adaptation networks
