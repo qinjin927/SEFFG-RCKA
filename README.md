@@ -87,10 +87,10 @@ directory contains:
 ## Main Files
 
 ```text
-train_advanced.py                  Complete SEFFG-RCKA training entry
+train_advanced.py               Complete SEFFG-RCKA training entry
 requirements.txt                Python dependencies
 datasets/                       Dataset loading and preprocessing
 models/                         CCSEFFG and domain-adaptation networks
 utils/dual_view_spectral_uda.py RL-MA-DVSCA implementation
-utils/train_utils_combines.py  Complete training and evaluation procedure
+utils/train_utils_combines.py   Complete training and evaluation procedure
 ```
